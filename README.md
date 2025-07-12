@@ -9,3 +9,4 @@ The Matthew Hackpad for Hack Club Highway. Got a lot of buttons and rotating stu
 <img width="433" height="581" alt="Screenshot 2025-07-11 at 5 00 01 PM" src="https://github.com/user-attachments/assets/f92b073f-dbc5-4c67-827e-c592ff433032" />
 
 <img width="454" height="571" alt="Screenshot 2025-07-11 at 6 52 15 PM" src="https://github.com/user-attachments/assets/d0380fc3-db67-4245-a40a-fcae66342c7e" />
+<img width="698" height="557" alt="Screenshot 2025-07-11 at 7 12 33 PM" src="https://github.com/user-attachments/assets/6d2e02e1-c451-46fa-8103-c7a1b05068fa" />
